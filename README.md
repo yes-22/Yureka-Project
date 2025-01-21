@@ -1,5 +1,7 @@
 # Yureka-Project
-##1. 회원 관련 (Authentication/Authorization)
+---
+
+## 1. 회원 관련 (Authentication/Authorization)
 
 1. **회원가입/로그인 기능**
     - 간단한 계정(이메일, 비밀번호)으로 로그인
